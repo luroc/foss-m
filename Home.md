@@ -1,1 +1,1 @@
-hallo welt
+# foss Manifest
