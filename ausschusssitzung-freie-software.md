@@ -11,43 +11,43 @@
 <h4>Eingangsstatements </h4>
 
 Dr. Johannes Loxen Sernet GmbH
-- die hälfte der open source Software auf der Welt kommt aus Europa, die Hälfte davon aus Deutschland
-- benötigt neue Kompetenzen bei Einkäufern der Öffentlichen Hand
-- als Kunde: kann ich die Software tatsächlich ändern? Probleme mit Zertifizierung und Support bei Eingriffen
-- critical systems: der code aller Anwendungen mit Sicherheitskontext sollte komplett offen zur Einsicht für Verantwortende sein
-- Öffentliche Hand sollte Quellcode verlangen um nicht an Produktzyklen gebunden zu sein; das ist günstiger bei open source software
--Beispiel: Stadt München
+<li> die hälfte der open source Software auf der Welt kommt aus Europa, die Hälfte davon aus Deutschland
+<li> benötigt neue Kompetenzen bei Einkäufern der Öffentlichen Hand
+<li> als Kunde: kann ich die Software tatsächlich ändern? Probleme mit Zertifizierung und Support bei Eingriffen
+<li> critical systems: der code aller Anwendungen mit Sicherheitskontext sollte komplett offen zur Einsicht für Verantwortende sein
+<li> Öffentliche Hand sollte Quellcode verlangen um nicht an Produktzyklen gebunden zu sein; das ist günstiger bei open source software
+<li>Beispiel: Stadt München
 
 Matthias Kirschner Deutschlandkoordinator FSFE
--für die Ausbildung nachkommender Generationen ist es wichtig, ein gefühl für Software zu Schulen: Software basiert auf Code und ist veränderbar, man kann daran teilhaben
--Wirtschaft brauch Fachkräfte aus eigenem Land, da sie lokale Firmen besser verstehen
--das Rad nicht immer neu erfinden, sondern bestehende Systeme effektiv nutzen
--es darf keine Abhängigkeiten von Lizenzbestimmungen geben, der Staat muss frei mit eigener Software umgehen können
--Wir müssen Software kontrollieren und nicht die Software uns
+<li>für die Ausbildung nachkommender Generationen ist es wichtig, ein gefühl für Software zu Schulen: Software basiert auf Code und ist veränderbar, man kann daran teilhaben
+<li>Wirtschaft brauch Fachkräfte aus eigenem Land, da sie lokale Firmen besser verstehen
+<li>das Rad nicht immer neu erfinden, sondern bestehende Systeme effektiv nutzen
+<li>es darf keine Abhängigkeiten von Lizenzbestimmungen geben, der Staat muss frei mit eigener Software umgehen können
+<li>Wir müssen Software kontrollieren und nicht die Software uns
  
 Jan Kleiner Chefredakteur Linux-Magazin
--öffentliche Hand setzt Freie Software v.a. ein um Geld zu sparen
--Linux eintwicklung hätte unter normalen Marktumständen ca. eine Milliarde euro gekostet, das ist nur die Spitze des Eisbergs
--Öffentliche Hand profitiert von foss-community und teilweise freiwilliger Arbeit
-- Foss bietet Investitionsschutz: Unabhängigkeit von Veränderung oder diskontinuität von Produkten. Freie Dinstleister können Produkte weiterführen, wenn sie kundig sind, d.h. in den Quellcode gucken können
-- Man kann sich Schnittstellen angucken
+<li>öffentliche Hand setzt Freie Software v.a. ein um Geld zu sparen
+<li>Linux eintwicklung hätte unter normalen Marktumständen ca. eine Milliarde euro gekostet, das ist nur die Spitze des Eisbergs
+<li>Öffentliche Hand profitiert von foss-community und teilweise freiwilliger Arbeit
+<li>Foss bietet Investitionsschutz: Unabhängigkeit von Veränderung oder diskontinuität von Produkten. Freie Dinstleister können Produkte weiterführen, wenn sie kundig sind, d.h. in den Quellcode gucken können<li>
+Man kann sich Schnittstellen angucken
 
 Moritz Lenz Perl Programmierer
-- Foss bietet Möglichketi um verteilte Individuen zu fördern
-- öffentliche Hand sollte  mehr Daten freigeben
-- Software der öffentlichen hand sollte stärker Modulhaft strukturiert sein, damit foss community und andere öff. Organisationen die Ergebnisse weiterbenutzen kann
-- Staat sollte räume für foss entwickler zur Verfügung stellen, zum Beispiel Universitäten in vorlesungsfreier Zeit
-- Normen sollten ksotenlos zur Verfügung stehen, da Normen wichtiges Werkzeug sind
+<li>Foss bietet Möglichketi um verteilte Individuen zu fördern
+<li>öffentliche Hand sollte  mehr Daten freigeben
+<li>Software der öffentlichen hand sollte stärker Modulhaft strukturiert sein, damit foss community und andere öff. Organisationen die Ergebnisse weiterbenutzen kann
+<li>Staat sollte räume für foss entwickler zur Verfügung stellen, zum Beispiel Universitäten in vorlesungsfreier Zeit
+<li>Normen sollten ksotenlos zur Verfügung stehen, da Normen wichtiges Werkzeug sind
 
 Dr. Till Jäger Fachanwalt Urheber und Medienrecht(jbb rechtsanwälte) für und Mitbegründer IFROSS
-- Probleme in Rechtsfragen: Patentrecht und Insolvenzrecht
+<li>Probleme in Rechtsfragen: Patentrecht und Insolvenzrecht
 
 Jan Mathias Ohle Partner Kanzlei Taylor and Wessing / Bitkom arbeitskreis Verteidigung/Logistik
-- es gibt kein Sonderrecht für open source Produkte im Vergaberecht
-- Vergaberecht ist von foss herausgefordert: Vergaberecht gilt zunächst nur für Entgeltliche Software, gilt aber für Dienstleistungen, so gerät freie und nicht-freie Software in Konkurrenz
-- Förderung von open source ist nicht im Vergaberecht berücksichtigt, Ausschreibung muss Produktneutral sein
-- es muss ausführlich formuliert werden, warum foss bevorzugt werden, Leistungsbeschreibung muss begründung enthalten, z. B. offener Quellcode, Linux oder gleichwertig
-- unsicherheiten in Haftungsfragen, eventuell nicht vorhandene Rechtekette
+<li>es gibt kein Sonderrecht für open source Produkte im Vergaberecht
+<li>Vergaberecht ist von foss herausgefordert: Vergaberecht gilt zunächst nur für Entgeltliche Software, gilt aber für Dienstleistungen, so gerät freie und nicht-freie Software in Konkurrenz
+<li>Förderung von open source ist nicht im Vergaberecht berücksichtigt, Ausschreibung muss Produktneutral sein
+<li>es muss ausführlich formuliert werden, warum foss bevorzugt werden, Leistungsbeschreibung muss begründung enthalten, z. B. offener Quellcode, Linux oder gleichwertig
+<li>unsicherheiten in Haftungsfragen, eventuell nicht vorhandene Rechtekette
 
 
 Fragerunde
