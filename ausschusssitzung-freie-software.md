@@ -1,10 +1,105 @@
 # Ausschusssitzung freie Software
 
 <h3> Quelle </h3>
-<hl>
+<hr>
 
 [[http://dbtg.tv/cvid/1912841]]
 
 <h3> Stichpunkte </h3>
-<hl>
+<hr>
 
+<h4>Eingangsstatements </h4>
+
+Dr. Johannes Loxen Sernet GmbH
+- die hälfte der open source Software auf der Welt kommt aus Europa, die Hälfte davon aus Deutschland
+- benötigt neue Kompetenzen bei Einkäufern der Öffentlichen Hand
+- als Kunde: kann ich die Software tatsächlich ändern? Probleme mit Zertifizierung und Support bei Eingriffen
+- critical systems: der code aller Anwendungen mit Sicherheitskontext sollte komplett offen zur Einsicht für Verantwortende sein
+- Öffentliche Hand sollte Quellcode verlangen um nicht an Produktzyklen gebunden zu sein; das ist günstiger bei open source software
+-Beispiel: Stadt München
+
+Matthias Kirschner Deutschlandkoordinator FSFE
+-für die Ausbildung nachkommender Generationen ist es wichtig, ein gefühl für Software zu Schulen: Software basiert auf Code und ist veränderbar, man kann daran teilhaben
+-Wirtschaft brauch Fachkräfte aus eigenem Land, da sie lokale Firmen besser verstehen
+-das Rad nicht immer neu erfinden, sondern bestehende Systeme effektiv nutzen
+-es darf keine Abhängigkeiten von Lizenzbestimmungen geben, der Staat muss frei mit eigener Software umgehen können
+-Wir müssen Software kontrollieren und nicht die Software uns
+ 
+Jan Kleiner Chefredakteur Linux-Magazin
+-öffentliche Hand setzt Freie Software v.a. ein um Geld zu sparen
+-Linux eintwicklung hätte unter normalen Marktumständen ca. eine Milliarde euro gekostet, das ist nur die Spitze des Eisbergs
+-Öffentliche Hand profitiert von foss-community und teilweise freiwilliger Arbeit
+- Foss bietet Investitionsschutz: Unabhängigkeit von Veränderung oder diskontinuität von Produkten. Freie Dinstleister können Produkte weiterführen, wenn sie kundig sind, d.h. in den Quellcode gucken können
+- Man kann sich Schnittstellen angucken
+
+Moritz Lenz Perl Programmierer
+- Foss bietet Möglichketi um verteilte Individuen zu fördern
+- öffentliche Hand sollte  mehr Daten freigeben
+- Software der öffentlichen hand sollte stärker Modulhaft strukturiert sein, damit foss community und andere öff. Organisationen die Ergebnisse weiterbenutzen kann
+- Staat sollte räume für foss entwickler zur Verfügung stellen, zum Beispiel Universitäten in vorlesungsfreier Zeit
+- Normen sollten ksotenlos zur Verfügung stehen, da Normen wichtiges Werkzeug sind
+
+Dr. Till Jäger Fachanwalt Urheber und Medienrecht(jbb rechtsanwälte) für und Mitbegründer IFROSS
+- Probleme in Rechtsfragen: Patentrecht und Insolvenzrecht
+
+Jan Mathias Ohle Partner Kanzlei Taylor and Wessing / Bitkom arbeitskreis Verteidigung/Logistik
+- es gibt kein Sonderrecht für open source Produkte im Vergaberecht
+- Vergaberecht ist von foss herausgefordert: Vergaberecht gilt zunächst nur für Entgeltliche Software, gilt aber für Dienstleistungen, so gerät freie und nicht-freie Software in Konkurrenz
+- Förderung von open source ist nicht im Vergaberecht berücksichtigt, Ausschreibung muss Produktneutral sein
+- es muss ausführlich formuliert werden, warum foss bevorzugt werden, Leistungsbeschreibung muss begründung enthalten, z. B. offener Quellcode, Linux oder gleichwertig
+- unsicherheiten in Haftungsfragen, eventuell nicht vorhandene Rechtekette
+
+
+Fragerunde
+
+?: Gehört Förderung ins Vergaberecht? Kann freie Neuentwicklung über Vergaberecht begründet werden, wenn nicht freie Alternative besteht?
+!: Vergaberecht schließt im Grundsatz förderung einzelner Produkte aus. Vergaberecht kann aber in der Gesellschaft akzeptierte Forderungen beachten. Es können innovativere Produkte gefördert werden, aber foss wird bisher nicht zwingend als innovativer eingeschätzt. 
+!: Argument ist wiederverwendbarkeit. Bei aktuellem recht ist Anpassung für andere Behörde nicht direkt erlaubt. 
+
+?1: wie unterscheiden sich Entwicklungsmodelle frei/nicht frei? 
+?2: welche Punkte müsste Gesetzgeber zur Förderung von foss ändern?
+
+!1: zwei entwicklungsmodelle: bedarfsorientiert(eher proprietär), nach art von grundlagenforschung(fast nur im freien bereich)
+!2: freie software braucht keine neue Regelungen, da Punkte wie nachhaltigkeit und Sicherheit berücksichtigt werden darf. Frage ist, ob öffentliche hand in Wettbewerb eingreift, wenn sie freie Software entwickeln lässt und der öffentlichkeit zur Verfügung stellt, dort sollte Gesetzgeber für Klarheit sorgen. Das Problem sei nicht fehlender Rechstrahmen, sondern fehlende Erfahrung und fehlende Aufklärung. Ausschreiber tuen sich schwer aufgrund bestehender EVBET freie software zu bevorzugen
+
+?: sind Änderungen im Vergaberecht oder im Landesrecht nötig?
+!: Es brauch keine zwingende Änderung im Recht, aber vergabepraxis muss geändert werden. Ausschreibende müssen quasi Juristen sein. Firmen wie Redhat wünschen sich zumindest Mustertexte für Ausschreibungen, da nicht jede IT-Abteilung firm im Ausschreiben um zumindest Chancengleichheit herzustellen.
+!: Es gibt Monopolstellungen, dort wird es schwer andere Software zu benutzen, teilweise werden in Ausschreibungen spezifische Produkte beschrieben. Es brauch Anleitungen um EVBET zu benutzen. Frage besteht: müssen anforderungen wie bspw. Qquelloffenheit aus Sicherheits- und Weitergabegründen weiterhin immer neu begründet werden? sollte dies nicht standart werden? Beispiel Italien: Erst nach Prüfung, ob bestimmtes Produkt nicht schon in einer anderen Behörde entwickelt wurde oder ob es freie Lösungen gibt, darf nicht freie Software ausgeschrieben werden
+
+?1: Aus öffentlicher Hand bezahlte Software darf uU. nicht der öffentlichkeit oder anderen Einrichtungen zur Verfügung gestellt werden wegen Wettbewerbsbestimmungen. Ist das nicht Paradox, da von Steuergeldern bezahlt? Bitte wiederspruch aufklären.
+?2: Was gibt es für Probleme im bezug auf DRM? Wird nicht dem nutzer die Hoheit über Geräte entzogen
+
+!1: Beispiel Krankenkasse hat Prudukt eines proprietären Anbieters frei nachentwickelt, das wurde verboten. Fall ist nicht zu verallgemeinern, aber übertragbarkeit ist fließend. Nur problem in Sonderfällen, ist aber nicht genau geregelt, Regelung ist gewünscht.
+!2:floss-impact-studie(!) zeigt: bestimmte industrien kamen mit digitalisierung nicht zurecht. DRM schaltet grundlegende funktionen von computern ab(kopieren), mit folgeeinschränkungen, s.h. zB. eBook-Reader/secure Boot/uEFI: extrem geschlossene Geräte, nutzer kann nicht frei mit Gerät umgehen, resultiert in wirtschaftlichen Schäden; extreme Herstellerbindung
+
+?: hat Deutschland vorreiterrolle in foss verloren? welche staaten haben uns wie und warum überholt?
+!: Deutschland hat imemrnoch vorreiterrolle, südamerika ist stark im kommen. Dotcom-Blase hat auch Linux voran gebracht. Es gibt Vorzeigeprojekte wie München, aber auch Rückschlage wie Auswärtiges Amt oder Bundestags-Mailserver. Keine positive Wirkung auf Leute, die nicht tief in der Materie stecken. Italien/Spanien versuchen auf Deutschland aufzuschließen.
+!: Deutschland hat enormes Potential, gerade im Server/Embedded Bereich. In Verwaltung: wenn vorteile(Herstellerunabhängigkeit, strategische Vorteile, z.B. eigene Entwickler beteiligen für Kernkompetenzen) verstanden werden, werden sie auch gefordert. Es fehlt hier der Mut Vorteile auszuschreiben, da sind bspw. Italien und teilweise England weiter. Rückendeckung in Deutschland auf Ministerialer/Präsidialer Ebene fehlt. Spanien/Frankreich/Schweden benutzen foss zur Wirtschaftsförderung. Deutschland scheint noch zu viel Geld haben, als das handlungsbedarf besteht.
+
+Offene Fragerunde
+?Twitter: Welche Rolle spielen unterschiede zwischen BSD und GNU Lizenzen bei Vergabe
+!: Frage nicht beantwortbar aufgrund von Vergaberecht. Vergaberecht ist Produktneutral
+!: Unterschied ist Vorgabe in Sachen Bearbeitung, BSD: software kann wieder nicht frei werden, GNU schließt dies aus. Hat in der Regel keine Auswirkung auf Vergabeentscheidungen.
+
+Freie Fragerunde:
+?1: Was sind Nachteile freier Software? Wie können die überkommen werden? Gibt es Verbesserungsbedarf in puncto usability für weniger fähige Endbenutzer?
+?2: Welche Lizenz sollte die Verwaltung bei Veröffentlichungen wählen?
+!1: Freie Software sagt nichts über Qualität aus. Es gibt Bedienungsfreundliche und nicht Bedienungsfreundliche Software. Die Qualität hängt oft von Nachfrage und Finanzierung ab. Es fehlt die Förderung von Nachgefragten Produkten, die aber niemand finanziert(siehe besserer umsetzung von GnuPG)
+!2: es macht Sinn etabliert Lizenz zu benutzen, welche Lizenz benutzt werden sollte, hängt vcom Einzelfall ab. Es macht sinn Module, wie Bibliotheken, sehr frei zu Lizenzieren.
+
+?: gibt es möglichkeiten monitär oder nicht-monitär foss zu fördern?
+!: Wichtig ist Bildung, besonders frühe Bildung. Außerdem der Abbau des Stigmas des "Programmierers in einer dunklen Höhle" und förderung von Frauen.
+!: Es sollte besserer Start-Up Förderung geben, außerdem mehr Bildung: Benutzung von freier Software in Schulen und Vermittlung des Wissens, das Software veränderbar ist. Entwicklungen von Universitäten sollten veröffentlicht werden. 
+
+?1: Wie ist die durchdringung von foss im bezug auf rechenzentren/server?
+?2: gibt es Erfolgsgeschichten? Weis man wie viele Verwaltungen die Möglichen von foss nutzen?
+!1: Die durchdringung ist sehr hoch, höher als auf dem desktop, wahrscheinlich auch höher als bei mobilen Geräten. Server werden va. von professionellen gewartet, es gibt für vieles open-source lösungen, außer für Mailserver.
+!2: Man muss berücksichtigen, dass es im Bereich von ausschreibungen um sehr alte strukturen und viel Macht geht. Als foss Entwickler darf man oft erst nach vollständigem Projektabschluss referenzieren und bekanntmachen, dass freie Software benutzt wurde. Bei Einkäufern gibt es oft das Festhalten an alten Strukturen, bekenntnis zu freier Software ist oft nur Lippenbekenntnis, es herrscht noch der zwang vor, bestimmte Produkte zu kaufen.
+!2: beim Join-up der europäischen Kommission sind Erfolge gelistet, auch bei Heise, auch Open Source-Kompetenz-???. 
+
+?: Die Diskussion wird oft ideologisch geführt, doch dann kommt wieder "geld ins spiel", besonders designer seien nicht von ruhm und ehre zu locken. Wie müsste ein aktives Ermuntern von Einkäufern aussehen, auch wenn es erstmal teurer ist? wie bricht man Machtstrukturen auf?
+!: Einige parallele Anstöße erforderlich. Zunächst denkfaulheit("schon immer so gemacht)überwinden: Einkäufer sollten sich rechtfertigen müssen. Es gibt unwissenheit. Der Ausschreibende trägt verantwortung, die er für Geld auf größere Firma ablasten kann. Es braucht mehr Mut und Schutz der Einkäufer.
+!: Die Umstellung komplexer Systeme bracuht Zeit, v.a. in hinsicht auf bürokratische Prozesse. Es braucht maximierung der Marktwirtschaftlichen Prozesse, je mehr angefragt wird, desto geringer der Preis. Bei ambitionierten projekten wird der Einkäufer immer auf bewährte Systeme zurückgreifen. Open Source ist komplexer, vielfältiger, es gibt ein Rechtfertigungsproblem und die Beschaffung wird deutlich komplexer, gerade bei großen Systemen. Es braucht mehr Rückendeckung für Beschaffer.
+
+?: Gibt es rechtliche Hürden, wenn öffentliche Anpassungen oder Weiterentwicklungen an den ursprünglichen Hauptstrang zurückgegeben werden?
+!: In der Regel nein, wird aber wenig gemacht. Die Lizenzen müssen erworben/geregelt werden.
