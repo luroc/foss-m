@@ -17,7 +17,7 @@ Dr. Johannes Loxen Sernet GmbH
 <li> critical systems: der code aller Anwendungen mit Sicherheitskontext sollte komplett offen zur Einsicht für Verantwortende sein
 <li> Öffentliche Hand sollte Quellcode verlangen um nicht an Produktzyklen gebunden zu sein; das ist günstiger bei open source software
 <li>Beispiel: Stadt München
-
+<br><br>
 Matthias Kirschner Deutschlandkoordinator FSFE
 <li>für die Ausbildung nachkommender Generationen ist es wichtig, ein gefühl für Software zu Schulen: Software basiert auf Code und ist veränderbar, man kann daran teilhaben
 <li>Wirtschaft brauch Fachkräfte aus eigenem Land, da sie lokale Firmen besser verstehen
