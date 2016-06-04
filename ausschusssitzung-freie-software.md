@@ -58,7 +58,6 @@ Fragerunde
 <br><br>
 ?1: wie unterscheiden sich Entwicklungsmodelle frei/nicht frei? <br>
 ?2: welche Punkte müsste Gesetzgeber zur Förderung von foss ändern?<br>
-<br><br>
 !1: zwei entwicklungsmodelle: bedarfsorientiert(eher proprietär), nach art von grundlagenforschung(fast nur im freien bereich)<br>
 !2: freie software braucht keine neue Regelungen, da Punkte wie nachhaltigkeit und Sicherheit berücksichtigt werden darf. Frage ist, ob öffentliche hand in Wettbewerb eingreift, wenn sie freie Software entwickeln lässt und der öffentlichkeit zur Verfügung stellt, dort sollte Gesetzgeber für Klarheit sorgen. Das Problem sei nicht fehlender Rechstrahmen, sondern fehlende Erfahrung und fehlende Aufklärung. Ausschreiber tuen sich schwer aufgrund bestehender EVBET freie software zu bevorzugen
 <br><br>
@@ -68,7 +67,7 @@ Fragerunde
 <br><br>
 ?1: Aus öffentlicher Hand bezahlte Software darf uU. nicht der öffentlichkeit oder anderen Einrichtungen zur Verfügung gestellt werden wegen Wettbewerbsbestimmungen. Ist das nicht Paradox, da von Steuergeldern bezahlt? Bitte wiederspruch aufklären.<br>
 ?2: Was gibt es für Probleme im bezug auf DRM? Wird nicht dem nutzer die Hoheit über Geräte entzogen
-<br><br>
+<br>
 !1: Beispiel Krankenkasse hat Prudukt eines proprietären Anbieters frei nachentwickelt, das wurde verboten. Fall ist nicht zu verallgemeinern, aber übertragbarkeit ist fließend. Nur problem in Sonderfällen, ist aber nicht genau geregelt, Regelung ist gewünscht.<br>
 !2:floss-impact-studie(!) zeigt: bestimmte industrien kamen mit digitalisierung nicht zurecht. DRM schaltet grundlegende funktionen von computern ab(kopieren), mit folgeeinschränkungen, s.h. zB. eBook-Reader/secure Boot/uEFI: extrem geschlossene Geräte, nutzer kann nicht frei mit Gerät umgehen, resultiert in wirtschaftlichen Schäden; extreme Herstellerbindung
 <br><br>
