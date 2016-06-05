@@ -1,1 +1,1 @@
-[[Free-Libre-Open-Source-Software-A-manifesto-for-education-and-infrastructure]]
+[[-Free-Libre-Open-Source-Software---A-manifesto-for-education-and-infrastructure]]
