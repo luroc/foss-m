@@ -76,7 +76,7 @@ Jan Mathias Ohle Partner Kanzlei Taylor and Wessing / Bitkom arbeitskreis Vertei
 ?2: Was gibt es für Probleme im bezug auf DRM? Wird nicht dem nutzer die Hoheit über Geräte entzogen
 <br>
 !1: Beispiel Krankenkasse hat Prudukt eines proprietären Anbieters frei nachentwickelt, das wurde verboten. Fall ist nicht zu verallgemeinern, aber übertragbarkeit ist fließend. Nur problem in Sonderfällen, ist aber nicht genau geregelt, Regelung ist gewünscht.<br>
-!2:floss-impact-studie(!) zeigt: bestimmte industrien kamen mit digitalisierung nicht zurecht. DRM schaltet grundlegende funktionen von computern ab(kopieren), mit folgeeinschränkungen, s.h. zB. eBook-Reader/secure Boot/uEFI: extrem geschlossene Geräte, nutzer kann nicht frei mit Gerät umgehen, resultiert in wirtschaftlichen Schäden; extreme Herstellerbindung
+!2:[[floss-impact-studie| ??]] zeigt: bestimmte industrien kamen mit digitalisierung nicht zurecht. DRM schaltet grundlegende funktionen von computern ab(kopieren), mit folgeeinschränkungen, s.h. zB. eBook-Reader/secure Boot/uEFI: extrem geschlossene Geräte, nutzer kann nicht frei mit Gerät umgehen, resultiert in wirtschaftlichen Schäden; extreme Herstellerbindung
 <br><br>
 ?: hat Deutschland vorreiterrolle in foss verloren? welche staaten haben uns wie und warum überholt?<br>
 !: Deutschland hat imemrnoch vorreiterrolle, südamerika ist stark im kommen. Dotcom-Blase hat auch Linux voran gebracht. Es gibt Vorzeigeprojekte wie München, aber auch Rückschlage wie Auswärtiges Amt oder Bundestags-Mailserver. Keine positive Wirkung auf Leute, die nicht tief in der Materie stecken. Italien/Spanien versuchen auf Deutschland aufzuschließen.<br>
@@ -99,7 +99,7 @@ Jan Mathias Ohle Partner Kanzlei Taylor and Wessing / Bitkom arbeitskreis Vertei
 ?2: gibt es Erfolgsgeschichten? Weis man wie viele Verwaltungen die Möglichen von foss nutzen?<br>
 !1: Die durchdringung ist sehr hoch, höher als auf dem desktop, wahrscheinlich auch höher als bei mobilen Geräten. Server werden va. von professionellen gewartet, es gibt für vieles open-source lösungen, außer für Mailserver.<br>
 !2: Man muss berücksichtigen, dass es im Bereich von ausschreibungen um sehr alte strukturen und viel Macht geht. Als foss Entwickler darf man oft erst nach vollständigem Projektabschluss referenzieren und bekanntmachen, dass freie Software benutzt wurde. Bei Einkäufern gibt es oft das Festhalten an alten Strukturen, bekenntnis zu freier Software ist oft nur Lippenbekenntnis, es herrscht noch der zwang vor, bestimmte Produkte zu kaufen.<br>
-!2: beim Join-up der europäischen Kommission sind Erfolge gelistet, auch bei Heise, auch Open Source-Kompetenz-???. 
+!2: beim [[Join-up der europäischen Kommission|https://joinup.ec.europa.eu/]]  sind Erfolge gelistet, auch bei Heise, auch Open Source-Kompetenz-???. 
 <br><br>
 ?: Die Diskussion wird oft ideologisch geführt, doch dann kommt wieder "geld ins spiel", besonders designer seien nicht von ruhm und ehre zu locken. Wie müsste ein aktives Ermuntern von Einkäufern aussehen, auch wenn es erstmal teurer ist? wie bricht man Machtstrukturen auf?<br>
 !: Einige parallele Anstöße erforderlich. Zunächst denkfaulheit("schon immer so gemacht)überwinden: Einkäufer sollten sich rechtfertigen müssen. Es gibt unwissenheit. Der Ausschreibende trägt verantwortung, die er für Geld auf größere Firma ablasten kann. Es braucht mehr Mut und Schutz der Einkäufer.<br>
