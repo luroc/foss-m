@@ -4,5 +4,5 @@ Ziel dieses Projektes ist es, ein Manifest / Absichtserklärung / Begründung / 
 
 <h3> bearbeitete Quellen </h3>
 
-[[Bundestag Ausschusssitzung Freie Software|ausschusssitzung-freie-software]]
-[[Telekommunist Manifesto|telekommunist-manifesto]]
+<li>[[Bundestag Ausschusssitzung Freie Software|ausschusssitzung-freie-software]]
+<li>[[Telekommunist Manifesto|telekommunist-manifesto]]
