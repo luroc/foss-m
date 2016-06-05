@@ -1,5 +1,3 @@
-# The Cathedral and the Bazaar
-
 <h3> Quelle </h3>
 <hr>
 
