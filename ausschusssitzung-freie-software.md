@@ -8,7 +8,7 @@
 <h3> Stichpunkte </h3>
 <hr>
 
-<h4>Eingangsstatements </h4>
+<h5>Eingangsstatements </h5>
 
 Dr. Johannes Loxen Sernet GmbH
 <li> die hälfte der open source Software auf der Welt kommt aus Europa, die Hälfte davon aus Deutschland
@@ -50,7 +50,7 @@ Jan Mathias Ohle Partner Kanzlei Taylor and Wessing / Bitkom arbeitskreis Vertei
 <li>unsicherheiten in Haftungsfragen, eventuell nicht vorhandene Rechtekette
 
 <br><br><br><br>
-Fragerunde
+<h5>Fragerunde</h5>
 <br><br>
 ?: Gehört Förderung ins Vergaberecht? Kann freie Neuentwicklung über Vergaberecht begründet werden, wenn nicht freie Alternative besteht?<br>
 !: Vergaberecht schließt im Grundsatz förderung einzelner Produkte aus. Vergaberecht kann aber in der Gesellschaft akzeptierte Forderungen beachten. Es können innovativere Produkte gefördert werden, aber foss wird bisher nicht zwingend als innovativer eingeschätzt.<br> 
@@ -75,12 +75,10 @@ Fragerunde
 !: Deutschland hat imemrnoch vorreiterrolle, südamerika ist stark im kommen. Dotcom-Blase hat auch Linux voran gebracht. Es gibt Vorzeigeprojekte wie München, aber auch Rückschlage wie Auswärtiges Amt oder Bundestags-Mailserver. Keine positive Wirkung auf Leute, die nicht tief in der Materie stecken. Italien/Spanien versuchen auf Deutschland aufzuschließen.<br>
 !: Deutschland hat enormes Potential, gerade im Server/Embedded Bereich. In Verwaltung: wenn vorteile(Herstellerunabhängigkeit, strategische Vorteile, z.B. eigene Entwickler beteiligen für Kernkompetenzen) verstanden werden, werden sie auch gefordert. Es fehlt hier der Mut Vorteile auszuschreiben, da sind bspw. Italien und teilweise England weiter. Rückendeckung in Deutschland auf Ministerialer/Präsidialer Ebene fehlt. Spanien/Frankreich/Schweden benutzen foss zur Wirtschaftsförderung. Deutschland scheint noch zu viel Geld haben, als das handlungsbedarf besteht.
 <br><br>
-Offene Fragerunde
 ?Twitter: Welche Rolle spielen unterschiede zwischen BSD und GNU Lizenzen bei Vergabe<br>
 !: Frage nicht beantwortbar aufgrund von Vergaberecht. Vergaberecht ist Produktneutral<br>
 !: Unterschied ist Vorgabe in Sachen Bearbeitung, BSD: software kann wieder nicht frei werden, GNU schließt dies aus. Hat in der Regel keine Auswirkung auf Vergabeentscheidungen.
 <br><br>
-Freie Fragerunde:
 ?1: Was sind Nachteile freier Software? Wie können die überkommen werden? Gibt es Verbesserungsbedarf in puncto usability für weniger fähige Endbenutzer?<br>
 ?2: Welche Lizenz sollte die Verwaltung bei Veröffentlichungen wählen?<br>
 !1: Freie Software sagt nichts über Qualität aus. Es gibt Bedienungsfreundliche und nicht Bedienungsfreundliche Software. Die Qualität hängt oft von Nachfrage und Finanzierung ab. Es fehlt die Förderung von Nachgefragten Produkten, die aber niemand finanziert(siehe besserer umsetzung von GnuPG)<br>
