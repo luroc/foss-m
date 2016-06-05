@@ -9,7 +9,7 @@
 <h3> Generelles </h3>
 <hr>
 Bei diesem Video vom 21.09.2012 handelt es sich um eine öffentliche Sitzung der Projektgruppe "Interoperabilität, Standards, Freie Software" der Enquete-Kommission "Internet und digitale Gesellschaft" bei der Vor- und Nachteile sowie das Potenzial von Open Source Software besprochen wird.
-<p> Die generellen Argumente beinhalten eher keine neue Argumente, aber das Video gibt einen guten ersten Eindruck von der Vergabepraxis und den bestehenden Strukturen, die bisher eher proprietäre Software bevorzugen.
+<p> Die generellen Argumente beinhalten eher keine neue Argumente, aber das Video gibt einen guten Eindruck von der Vergabepraxis und den bestehenden Strukturen, die bisher eher proprietäre Software bevorzugen.
 
 
 <h3> Stichpunkte </h3>
