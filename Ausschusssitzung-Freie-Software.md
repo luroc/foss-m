@@ -1,5 +1,3 @@
-# Ausschusssitzung freie Software
-
 <h3> Quelle </h3>
 <hr>
 
