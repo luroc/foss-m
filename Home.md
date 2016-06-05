@@ -4,4 +4,4 @@ Dieses Wiki dient der Ausarbeitung eines foss Manifets für öffentliche Einrich
 
 # bearbeitete Quellen
 
-[[ausschusssitzung-freie-software]]
+[[Bundestag Ausschusssitzung Freie Software|ausschusssitzung-freie-software]]
