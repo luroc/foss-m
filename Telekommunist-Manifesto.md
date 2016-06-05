@@ -1,5 +1,3 @@
-# Telekommunist Manifesto
-
 <h3> Quelle </h3>
 <hr>
 
