@@ -5,3 +5,4 @@ Ziel dieses Projektes ist es, ein Manifest / Absichtserklärung / Begründung / 
 <li>[[Bundestag Ausschusssitzung Freie Software|ausschusssitzung-freie-software]]
 <li>[[Telekommunist Manifesto|telekommunist-manifesto]]
 <li>[[The Cathedral and the Bazaar| the-cathedral-and-the-bazaar]]
+<li>[[Source Code Policy|source-code-policy]]
