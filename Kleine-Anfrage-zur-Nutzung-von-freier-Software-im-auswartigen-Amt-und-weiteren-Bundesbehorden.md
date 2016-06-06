@@ -12,7 +12,7 @@ Bei diesem Text handelt es sich um eine kleine Anfrage an die Bundesregierung zu
  2002  begonnen,  die  Rechner  –  auch  in  den  einzelnen  Botschaften  –
  auf   freie   Software   umzustellen.[] Diese  Umstellung  hat  sich  finanziell  ausgezahlt,  Kosten
  konnten  reduziert  werden."(S. 1)
-<p>"[Das]  Auswärtige  Amt  sei  seit  der  Umstellung  auf  freie  Software  das  mit  Ab-
+<p> "[Das]  Auswärtige  Amt  sei  seit  der  Umstellung  auf  freie  Software  das  mit  Ab-
  stand  am  wirtschaftlichsten  handelnde  Bundesministerium  bei  den  IT-Kosten.
  Im  Jahr  2005  hätten  die  IT-Ausgaben  dort  pro  Kopf  im  Jahr  bei  nur  1  190  Euro
  gelegen.  Andere  Bundesministerien  haben  dem  Bericht  zufolge  dafür  mindes-
